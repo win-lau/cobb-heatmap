@@ -1,187 +1,187 @@
-GEOID,Name of geographic unit,Short Label,Summary level of geographic unit,Geography Vintage,Planning Region,"% Civilian non-institutionalized population, no health insurance, 2024"
-13067030104,"Census Tract 301.04, Cobb County",301.04,Tract,2020,Atlanta Regional Commission,17.8
-13067030107,"Census Tract 301.07, Cobb County",301.07,Tract,2020,Atlanta Regional Commission,9.2
-13067030108,"Census Tract 301.08, Cobb County",301.08,Tract,2020,Atlanta Regional Commission,18.0
-13067030109,"Census Tract 301.09, Cobb County",301.09,Tract,2020,Atlanta Regional Commission,8.6
-13067030110,"Census Tract 301.10, Cobb County",301.1,Tract,2020,Atlanta Regional Commission,15.3
-13067030111,"Census Tract 301.11, Cobb County",301.11,Tract,2020,Atlanta Regional Commission,9.3
-13067030112,"Census Tract 301.12, Cobb County",301.12,Tract,2020,Atlanta Regional Commission,14.2
-13067030113,"Census Tract 301.13, Cobb County",301.13,Tract,2020,Atlanta Regional Commission,13.3
-13067030220,"Census Tract 302.20, Cobb County",302.2,Tract,2020,Atlanta Regional Commission,3.2
-13067030233,"Census Tract 302.33, Cobb County",302.33,Tract,2020,Atlanta Regional Commission,4.6
-13067030235,"Census Tract 302.35, Cobb County",302.35,Tract,2020,Atlanta Regional Commission,6.8
-13067030236,"Census Tract 302.36, Cobb County",302.36,Tract,2020,Atlanta Regional Commission,5.3
-13067030240,"Census Tract 302.40, Cobb County",302.4,Tract,2020,Atlanta Regional Commission,10.1
-13067030241,"Census Tract 302.41, Cobb County",302.41,Tract,2020,Atlanta Regional Commission,4.6
-13067030242,"Census Tract 302.42, Cobb County",302.42,Tract,2020,Atlanta Regional Commission,12.4
-13067030243,"Census Tract 302.43, Cobb County",302.43,Tract,2020,Atlanta Regional Commission,7.4
-13067030244,"Census Tract 302.44, Cobb County",302.44,Tract,2020,Atlanta Regional Commission,3.4
-13067030245,"Census Tract 302.45, Cobb County",302.45,Tract,2020,Atlanta Regional Commission,2.2
-13067030246,"Census Tract 302.46, Cobb County",302.46,Tract,2020,Atlanta Regional Commission,8.8
-13067030247,"Census Tract 302.47, Cobb County",302.47,Tract,2020,Atlanta Regional Commission,7.2
-13067030248,"Census Tract 302.48, Cobb County",302.48,Tract,2020,Atlanta Regional Commission,16.3
-13067030249,"Census Tract 302.49, Cobb County",302.49,Tract,2020,Atlanta Regional Commission,8.0
-13067030250,"Census Tract 302.50, Cobb County",302.5,Tract,2020,Atlanta Regional Commission,6.0
-13067030251,"Census Tract 302.51, Cobb County",302.51,Tract,2020,Atlanta Regional Commission,2.6
-13067030252,"Census Tract 302.52, Cobb County",302.52,Tract,2020,Atlanta Regional Commission,1.2
-13067030253,"Census Tract 302.53, Cobb County",302.53,Tract,2020,Atlanta Regional Commission,1.8
-13067030254,"Census Tract 302.54, Cobb County",302.54,Tract,2020,Atlanta Regional Commission,4.5
-13067030255,"Census Tract 302.55, Cobb County",302.55,Tract,2020,Atlanta Regional Commission,8.2
-13067030256,"Census Tract 302.56, Cobb County",302.56,Tract,2020,Atlanta Regional Commission,1.0
-13067030257,"Census Tract 302.57, Cobb County",302.57,Tract,2020,Atlanta Regional Commission,11.2
-13067030258,"Census Tract 302.58, Cobb County",302.58,Tract,2020,Atlanta Regional Commission,32.2
-13067030259,"Census Tract 302.59, Cobb County",302.59,Tract,2020,Atlanta Regional Commission,9.9
-13067030260,"Census Tract 302.60, Cobb County",302.6,Tract,2020,Atlanta Regional Commission,18.5
-13067030261,"Census Tract 302.61, Cobb County",302.61,Tract,2020,Atlanta Regional Commission,8.1
-13067030262,"Census Tract 302.62, Cobb County",302.62,Tract,2020,Atlanta Regional Commission,1.6
-13067030263,"Census Tract 302.63, Cobb County",302.63,Tract,2020,Atlanta Regional Commission,4.8
-13067030264,"Census Tract 302.64, Cobb County",302.64,Tract,2020,Atlanta Regional Commission,4.6
-13067030265,"Census Tract 302.65, Cobb County",302.65,Tract,2020,Atlanta Regional Commission,0.1
-13067030266,"Census Tract 302.66, Cobb County",302.66,Tract,2020,Atlanta Regional Commission,3.1
-13067030267,"Census Tract 302.67, Cobb County",302.67,Tract,2020,Atlanta Regional Commission,2.1
-13067030268,"Census Tract 302.68, Cobb County",302.68,Tract,2020,Atlanta Regional Commission,4.9
-13067030269,"Census Tract 302.69, Cobb County",302.69,Tract,2020,Atlanta Regional Commission,6.7
-13067030270,"Census Tract 302.70, Cobb County",302.7,Tract,2020,Atlanta Regional Commission,1.9
-13067030271,"Census Tract 302.71, Cobb County",302.71,Tract,2020,Atlanta Regional Commission,20.4
-13067030272,"Census Tract 302.72, Cobb County",302.72,Tract,2020,Atlanta Regional Commission,5.3
-13067030273,"Census Tract 302.73, Cobb County",302.73,Tract,2020,Atlanta Regional Commission,8.8
-13067030274,"Census Tract 302.74, Cobb County",302.74,Tract,2020,Atlanta Regional Commission,16.4
-13067030275,"Census Tract 302.75, Cobb County",302.75,Tract,2020,Atlanta Regional Commission,10.7
-13067030276,"Census Tract 302.76, Cobb County",302.76,Tract,2020,Atlanta Regional Commission,0.4
-13067030277,"Census Tract 302.77, Cobb County",302.77,Tract,2020,Atlanta Regional Commission,9.6
-13067030278,"Census Tract 302.78, Cobb County",302.78,Tract,2020,Atlanta Regional Commission,10.7
-13067030319,"Census Tract 303.19, Cobb County",303.19,Tract,2020,Atlanta Regional Commission,3.8
-13067030322,"Census Tract 303.22, Cobb County",303.22,Tract,2020,Atlanta Regional Commission,1.3
-13067030324,"Census Tract 303.24, Cobb County",303.24,Tract,2020,Atlanta Regional Commission,7.4
-13067030326,"Census Tract 303.26, Cobb County",303.26,Tract,2020,Atlanta Regional Commission,2.1
-13067030327,"Census Tract 303.27, Cobb County",303.27,Tract,2020,Atlanta Regional Commission,8.2
-13067030329,"Census Tract 303.29, Cobb County",303.29,Tract,2020,Atlanta Regional Commission,6.3
-13067030331,"Census Tract 303.31, Cobb County",303.31,Tract,2020,Atlanta Regional Commission,5.0
-13067030332,"Census Tract 303.32, Cobb County",303.32,Tract,2020,Atlanta Regional Commission,0.5
-13067030334,"Census Tract 303.34, Cobb County",303.34,Tract,2020,Atlanta Regional Commission,2.4
-13067030335,"Census Tract 303.35, Cobb County",303.35,Tract,2020,Atlanta Regional Commission,2.5
-13067030337,"Census Tract 303.37, Cobb County",303.37,Tract,2020,Atlanta Regional Commission,4.8
-13067030340,"Census Tract 303.40, Cobb County",303.4,Tract,2020,Atlanta Regional Commission,2.4
-13067030341,"Census Tract 303.41, Cobb County",303.41,Tract,2020,Atlanta Regional Commission,7.0
-13067030342,"Census Tract 303.42, Cobb County",303.42,Tract,2020,Atlanta Regional Commission,2.5
-13067030343,"Census Tract 303.43, Cobb County",303.43,Tract,2020,Atlanta Regional Commission,2.6
-13067030344,"Census Tract 303.44, Cobb County",303.44,Tract,2020,Atlanta Regional Commission,19.2
-13067030345,"Census Tract 303.45, Cobb County",303.45,Tract,2020,Atlanta Regional Commission,9.8
-13067030346,"Census Tract 303.46, Cobb County",303.46,Tract,2020,Atlanta Regional Commission,11.2
-13067030347,"Census Tract 303.47, Cobb County",303.47,Tract,2020,Atlanta Regional Commission,17.0
-13067030348,"Census Tract 303.48, Cobb County",303.48,Tract,2020,Atlanta Regional Commission,6.7
-13067030349,"Census Tract 303.49, Cobb County",303.49,Tract,2020,Atlanta Regional Commission,14.2
-13067030350,"Census Tract 303.50, Cobb County",303.5,Tract,2020,Atlanta Regional Commission,10.4
-13067030351,"Census Tract 303.51, Cobb County",303.51,Tract,2020,Atlanta Regional Commission,4.8
-13067030352,"Census Tract 303.52, Cobb County",303.52,Tract,2020,Atlanta Regional Commission,3.2
-13067030353,"Census Tract 303.53, Cobb County",303.53,Tract,2020,Atlanta Regional Commission,7.3
-13067030354,"Census Tract 303.54, Cobb County",303.54,Tract,2020,Atlanta Regional Commission,5.3
-13067030355,"Census Tract 303.55, Cobb County",303.55,Tract,2020,Atlanta Regional Commission,7.2
-13067030356,"Census Tract 303.56, Cobb County",303.56,Tract,2020,Atlanta Regional Commission,2.4
-13067030357,"Census Tract 303.57, Cobb County",303.57,Tract,2020,Atlanta Regional Commission,2.3
-13067030358,"Census Tract 303.58, Cobb County",303.58,Tract,2020,Atlanta Regional Commission,3.9
-13067030359,"Census Tract 303.59, Cobb County",303.59,Tract,2020,Atlanta Regional Commission,2.2
-13067030360,"Census Tract 303.60, Cobb County",303.6,Tract,2020,Atlanta Regional Commission,1.7
-13067030361,"Census Tract 303.61, Cobb County",303.61,Tract,2020,Atlanta Regional Commission,8.5
-13067030362,"Census Tract 303.62, Cobb County",303.62,Tract,2020,Atlanta Regional Commission,9.2
-13067030363,"Census Tract 303.63, Cobb County",303.63,Tract,2020,Atlanta Regional Commission,8.1
-13067030364,"Census Tract 303.64, Cobb County",303.64,Tract,2020,Atlanta Regional Commission,4.1
-13067030365,"Census Tract 303.65, Cobb County",303.65,Tract,2020,Atlanta Regional Commission,1.3
-13067030366,"Census Tract 303.66, Cobb County",303.66,Tract,2020,Atlanta Regional Commission,4.0
-13067030367,"Census Tract 303.67, Cobb County",303.67,Tract,2020,Atlanta Regional Commission,6.8
-13067030368,"Census Tract 303.68, Cobb County",303.68,Tract,2020,Atlanta Regional Commission,4.5
-13067030369,"Census Tract 303.69, Cobb County",303.69,Tract,2020,Atlanta Regional Commission,3.2
-13067030370,"Census Tract 303.70, Cobb County",303.7,Tract,2020,Atlanta Regional Commission,4.2
-13067030405,"Census Tract 304.05, Cobb County",304.05,Tract,2020,Atlanta Regional Commission,12.9
-13067030407,"Census Tract 304.07, Cobb County",304.07,Tract,2020,Atlanta Regional Commission,12.5
-13067030408,"Census Tract 304.08, Cobb County",304.08,Tract,2020,Atlanta Regional Commission,18.4
-13067030409,"Census Tract 304.09, Cobb County",304.09,Tract,2020,Atlanta Regional Commission,2.6
-13067030410,"Census Tract 304.10, Cobb County",304.1,Tract,2020,Atlanta Regional Commission,4.1
-13067030411,"Census Tract 304.11, Cobb County",304.11,Tract,2020,Atlanta Regional Commission,34.9
-13067030412,"Census Tract 304.12, Cobb County",304.12,Tract,2020,Atlanta Regional Commission,36.3
-13067030413,"Census Tract 304.13, Cobb County",304.13,Tract,2020,Atlanta Regional Commission,30.1
-13067030414,"Census Tract 304.14, Cobb County",304.14,Tract,2020,Atlanta Regional Commission,32.9
-13067030505,"Census Tract 305.05, Cobb County",305.05,Tract,2020,Atlanta Regional Commission,22.5
-13067030506,"Census Tract 305.06, Cobb County",305.06,Tract,2020,Atlanta Regional Commission,17.7
-13067030507,"Census Tract 305.07, Cobb County",305.07,Tract,2020,Atlanta Regional Commission,7.9
-13067030508,"Census Tract 305.08, Cobb County",305.08,Tract,2020,Atlanta Regional Commission,23.0
-13067030509,"Census Tract 305.09, Cobb County",305.09,Tract,2020,Atlanta Regional Commission,3.7
-13067030510,"Census Tract 305.10, Cobb County",305.1,Tract,2020,Atlanta Regional Commission,12.2
-13067030511,"Census Tract 305.11, Cobb County",305.11,Tract,2020,Atlanta Regional Commission,12.1
-13067030602,"Census Tract 306.02, Cobb County",306.02,Tract,2020,Atlanta Regional Commission,2.7
-13067030603,"Census Tract 306.03, Cobb County",306.03,Tract,2020,Atlanta Regional Commission,4.9
-13067030604,"Census Tract 306.04, Cobb County",306.04,Tract,2020,Atlanta Regional Commission,29.1
-13067030700,"Census Tract 307, Cobb County",307.0,Tract,2020,Atlanta Regional Commission,21.7
-13067030800,"Census Tract 308, Cobb County",308.0,Tract,2020,Atlanta Regional Commission,22.4
-13067030906,"Census Tract 309.06, Cobb County",309.06,Tract,2020,Atlanta Regional Commission,7.6
-13067030907,"Census Tract 309.07, Cobb County",309.07,Tract,2020,Atlanta Regional Commission,11.7
-13067030908,"Census Tract 309.08, Cobb County",309.08,Tract,2020,Atlanta Regional Commission,26.8
-13067030909,"Census Tract 309.09, Cobb County",309.09,Tract,2020,Atlanta Regional Commission,48.4
-13067030910,"Census Tract 309.10, Cobb County",309.1,Tract,2020,Atlanta Regional Commission,24.8
-13067030911,"Census Tract 309.11, Cobb County",309.11,Tract,2020,Atlanta Regional Commission,31.8
-13067030912,"Census Tract 309.12, Cobb County",309.12,Tract,2020,Atlanta Regional Commission,34.5
-13067031001,"Census Tract 310.01, Cobb County",310.01,Tract,2020,Atlanta Regional Commission,38.8
-13067031004,"Census Tract 310.04, Cobb County",310.04,Tract,2020,Atlanta Regional Commission,27.2
-13067031005,"Census Tract 310.05, Cobb County",310.05,Tract,2020,Atlanta Regional Commission,22.4
-13067031006,"Census Tract 310.06, Cobb County",310.06,Tract,2020,Atlanta Regional Commission,43.8
-13067031007,"Census Tract 310.07, Cobb County",310.07,Tract,2020,Atlanta Regional Commission,30.9
-13067031101,"Census Tract 311.01, Cobb County",311.01,Tract,2020,Atlanta Regional Commission,28.4
-13067031110,"Census Tract 311.10, Cobb County",311.1,Tract,2020,Atlanta Regional Commission,9.7
-13067031111,"Census Tract 311.11, Cobb County",311.11,Tract,2020,Atlanta Regional Commission,7.7
-13067031112,"Census Tract 311.12, Cobb County",311.12,Tract,2020,Atlanta Regional Commission,2.9
-13067031113,"Census Tract 311.13, Cobb County",311.13,Tract,2020,Atlanta Regional Commission,17.6
-13067031114,"Census Tract 311.14, Cobb County",311.14,Tract,2020,Atlanta Regional Commission,12.4
-13067031115,"Census Tract 311.15, Cobb County",311.15,Tract,2020,Atlanta Regional Commission,7.5
-13067031116,"Census Tract 311.16, Cobb County",311.16,Tract,2020,Atlanta Regional Commission,19.1
-13067031117,"Census Tract 311.17, Cobb County",311.17,Tract,2020,Atlanta Regional Commission,6.1
-13067031118,"Census Tract 311.18, Cobb County",311.18,Tract,2020,Atlanta Regional Commission,13.0
-13067031119,"Census Tract 311.19, Cobb County",311.19,Tract,2020,Atlanta Regional Commission,26.6
-13067031120,"Census Tract 311.20, Cobb County",311.2,Tract,2020,Atlanta Regional Commission,4.5
-13067031121,"Census Tract 311.21, Cobb County",311.21,Tract,2020,Atlanta Regional Commission,7.5
-13067031122,"Census Tract 311.22, Cobb County",311.22,Tract,2020,Atlanta Regional Commission,8.1
-13067031207,"Census Tract 312.07, Cobb County",312.07,Tract,2020,Atlanta Regional Commission,4.8
-13067031209,"Census Tract 312.09, Cobb County",312.09,Tract,2020,Atlanta Regional Commission,2.4
-13067031212,"Census Tract 312.12, Cobb County",312.12,Tract,2020,Atlanta Regional Commission,2.7
-13067031213,"Census Tract 312.13, Cobb County",312.13,Tract,2020,Atlanta Regional Commission,6.0
-13067031214,"Census Tract 312.14, Cobb County",312.14,Tract,2020,Atlanta Regional Commission,6.1
-13067031215,"Census Tract 312.15, Cobb County",312.15,Tract,2020,Atlanta Regional Commission,8.3
-13067031216,"Census Tract 312.16, Cobb County",312.16,Tract,2020,Atlanta Regional Commission,2.7
-13067031217,"Census Tract 312.17, Cobb County",312.17,Tract,2020,Atlanta Regional Commission,8.7
-13067031218,"Census Tract 312.18, Cobb County",312.18,Tract,2020,Atlanta Regional Commission,4.6
-13067031219,"Census Tract 312.19, Cobb County",312.19,Tract,2020,Atlanta Regional Commission,23.9
-13067031220,"Census Tract 312.20, Cobb County",312.2,Tract,2020,Atlanta Regional Commission,17.2
-13067031221,"Census Tract 312.21, Cobb County",312.21,Tract,2020,Atlanta Regional Commission,3.2
-13067031306,"Census Tract 313.06, Cobb County",313.06,Tract,2020,Atlanta Regional Commission,10.4
-13067031308,"Census Tract 313.08, Cobb County",313.08,Tract,2020,Atlanta Regional Commission,24.5
-13067031314,"Census Tract 313.14, Cobb County",313.14,Tract,2020,Atlanta Regional Commission,10.8
-13067031315,"Census Tract 313.15, Cobb County",313.15,Tract,2020,Atlanta Regional Commission,2.9
-13067031316,"Census Tract 313.16, Cobb County",313.16,Tract,2020,Atlanta Regional Commission,18.5
-13067031317,"Census Tract 313.17, Cobb County",313.17,Tract,2020,Atlanta Regional Commission,18.5
-13067031318,"Census Tract 313.18, Cobb County",313.18,Tract,2020,Atlanta Regional Commission,25.6
-13067031319,"Census Tract 313.19, Cobb County",313.19,Tract,2020,Atlanta Regional Commission,24.9
-13067031320,"Census Tract 313.20, Cobb County",313.2,Tract,2020,Atlanta Regional Commission,12.5
-13067031321,"Census Tract 313.21, Cobb County",313.21,Tract,2020,Atlanta Regional Commission,47.8
-13067031322,"Census Tract 313.22, Cobb County",313.22,Tract,2020,Atlanta Regional Commission,29.1
-13067031323,"Census Tract 313.23, Cobb County",313.23,Tract,2020,Atlanta Regional Commission,12.2
-13067031324,"Census Tract 313.24, Cobb County",313.24,Tract,2020,Atlanta Regional Commission,13.9
-13067031325,"Census Tract 313.25, Cobb County",313.25,Tract,2020,Atlanta Regional Commission,7.8
-13067031409,"Census Tract 314.09, Cobb County",314.09,Tract,2020,Atlanta Regional Commission,24.0
-13067031410,"Census Tract 314.10, Cobb County",314.1,Tract,2020,Atlanta Regional Commission,15.2
-13067031411,"Census Tract 314.11, Cobb County",314.11,Tract,2020,Atlanta Regional Commission,10.2
-13067031412,"Census Tract 314.12, Cobb County",314.12,Tract,2020,Atlanta Regional Commission,14.9
-13067031413,"Census Tract 314.13, Cobb County",314.13,Tract,2020,Atlanta Regional Commission,8.0
-13067031414,"Census Tract 314.14, Cobb County",314.14,Tract,2020,Atlanta Regional Commission,14.4
-13067031415,"Census Tract 314.15, Cobb County",314.15,Tract,2020,Atlanta Regional Commission,19.3
-13067031416,"Census Tract 314.16, Cobb County",314.16,Tract,2020,Atlanta Regional Commission,8.5
-13067031417,"Census Tract 314.17, Cobb County",314.17,Tract,2020,Atlanta Regional Commission,24.6
-13067031506,"Census Tract 315.06, Cobb County",315.06,Tract,2020,Atlanta Regional Commission,10.6
-13067031507,"Census Tract 315.07, Cobb County",315.07,Tract,2020,Atlanta Regional Commission,11.0
-13067031510,"Census Tract 315.10, Cobb County",315.1,Tract,2020,Atlanta Regional Commission,12.8
-13067031511,"Census Tract 315.11, Cobb County",315.11,Tract,2020,Atlanta Regional Commission,9.6
-13067031512,"Census Tract 315.12, Cobb County",315.12,Tract,2020,Atlanta Regional Commission,17.9
-13067031513,"Census Tract 315.13, Cobb County",315.13,Tract,2020,Atlanta Regional Commission,13.8
-13067031514,"Census Tract 315.14, Cobb County",315.14,Tract,2020,Atlanta Regional Commission,15.7
-13067031515,"Census Tract 315.15, Cobb County",315.15,Tract,2020,Atlanta Regional Commission,9.5
-13067031516,"Census Tract 315.16, Cobb County",315.16,Tract,2020,Atlanta Regional Commission,8.6
-13067031517,"Census Tract 315.17, Cobb County",315.17,Tract,2020,Atlanta Regional Commission,17.1
-13067031518,"Census Tract 315.18, Cobb County",315.18,Tract,2020,Atlanta Regional Commission,17.0
+GEOID,"% Civilian non-institutionalized population, no health insurance, 2024"
+13067030104,17.8
+13067030107,9.2
+13067030108,18.0
+13067030109,8.6
+13067030110,15.3
+13067030111,9.3
+13067030112,14.2
+13067030113,13.3
+13067030220,3.2
+13067030233,4.6
+13067030235,6.8
+13067030236,5.3
+13067030240,10.1
+13067030241,4.6
+13067030242,12.4
+13067030243,7.4
+13067030244,3.4
+13067030245,2.2
+13067030246,8.8
+13067030247,7.2
+13067030248,16.3
+13067030249,8.0
+13067030250,6.0
+13067030251,2.6
+13067030252,1.2
+13067030253,1.8
+13067030254,4.5
+13067030255,8.2
+13067030256,1.0
+13067030257,11.2
+13067030258,32.2
+13067030259,9.9
+13067030260,18.5
+13067030261,8.1
+13067030262,1.6
+13067030263,4.8
+13067030264,4.6
+13067030265,0.1
+13067030266,3.1
+13067030267,2.1
+13067030268,4.9
+13067030269,6.7
+13067030270,1.9
+13067030271,20.4
+13067030272,5.3
+13067030273,8.8
+13067030274,16.4
+13067030275,10.7
+13067030276,0.4
+13067030277,9.6
+13067030278,10.7
+13067030319,3.8
+13067030322,1.3
+13067030324,7.4
+13067030326,2.1
+13067030327,8.2
+13067030329,6.3
+13067030331,5.0
+13067030332,0.5
+13067030334,2.4
+13067030335,2.5
+13067030337,4.8
+13067030340,2.4
+13067030341,7.0
+13067030342,2.5
+13067030343,2.6
+13067030344,19.2
+13067030345,9.8
+13067030346,11.2
+13067030347,17.0
+13067030348,6.7
+13067030349,14.2
+13067030350,10.4
+13067030351,4.8
+13067030352,3.2
+13067030353,7.3
+13067030354,5.3
+13067030355,7.2
+13067030356,2.4
+13067030357,2.3
+13067030358,3.9
+13067030359,2.2
+13067030360,1.7
+13067030361,8.5
+13067030362,9.2
+13067030363,8.1
+13067030364,4.1
+13067030365,1.3
+13067030366,4.0
+13067030367,6.8
+13067030368,4.5
+13067030369,3.2
+13067030370,4.2
+13067030405,12.9
+13067030407,12.5
+13067030408,18.4
+13067030409,2.6
+13067030410,4.1
+13067030411,34.9
+13067030412,36.3
+13067030413,30.1
+13067030414,32.9
+13067030505,22.5
+13067030506,17.7
+13067030507,7.9
+13067030508,23.0
+13067030509,3.7
+13067030510,12.2
+13067030511,12.1
+13067030602,2.7
+13067030603,4.9
+13067030604,29.1
+13067030700,21.7
+13067030800,22.4
+13067030906,7.6
+13067030907,11.7
+13067030908,26.8
+13067030909,48.4
+13067030910,24.8
+13067030911,31.8
+13067030912,34.5
+13067031001,38.8
+13067031004,27.2
+13067031005,22.4
+13067031006,43.8
+13067031007,30.9
+13067031101,28.4
+13067031110,9.7
+13067031111,7.7
+13067031112,2.9
+13067031113,17.6
+13067031114,12.4
+13067031115,7.5
+13067031116,19.1
+13067031117,6.1
+13067031118,13.0
+13067031119,26.6
+13067031120,4.5
+13067031121,7.5
+13067031122,8.1
+13067031207,4.8
+13067031209,2.4
+13067031212,2.7
+13067031213,6.0
+13067031214,6.1
+13067031215,8.3
+13067031216,2.7
+13067031217,8.7
+13067031218,4.6
+13067031219,23.9
+13067031220,17.2
+13067031221,3.2
+13067031306,10.4
+13067031308,24.5
+13067031314,10.8
+13067031315,2.9
+13067031316,18.5
+13067031317,18.5
+13067031318,25.6
+13067031319,24.9
+13067031320,12.5
+13067031321,47.8
+13067031322,29.1
+13067031323,12.2
+13067031324,13.9
+13067031325,7.8
+13067031409,24.0
+13067031410,15.2
+13067031411,10.2
+13067031412,14.9
+13067031413,8.0
+13067031414,14.4
+13067031415,19.3
+13067031416,8.5
+13067031417,24.6
+13067031506,10.6
+13067031507,11.0
+13067031510,12.8
+13067031511,9.6
+13067031512,17.9
+13067031513,13.8
+13067031514,15.7
+13067031515,9.5
+13067031516,8.6
+13067031517,17.1
+13067031518,17.0
